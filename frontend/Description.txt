@@ -1,1 +1,1 @@
-Hello World
+React Front End App that provides the geolocation service. Map markers are created by user requests for donations.
